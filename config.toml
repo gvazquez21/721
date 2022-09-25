@@ -6,6 +6,7 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
+home ="/"
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -85,3 +86,4 @@ enableRobotsTXT = true
     url = "https://github.com/opera7133/tella"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
+
