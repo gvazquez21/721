@@ -6,7 +6,6 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
-myHome ="/"
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -48,6 +47,10 @@ myHome ="/"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
+
+  [params.home]
+    url = "/"
+    
 
 [menu]
 
